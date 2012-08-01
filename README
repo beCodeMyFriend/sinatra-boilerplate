@@ -2,12 +2,12 @@
 - folder structure
 	 - lib: source
 	 - test 
-	 	- routes
-	 	- domain
+	 	- routes: tests for sinatra routes
+	 	- domain: tests for app domain
 
-- sinatra simple app
-	- app.rb
-	- config.ru
+- run the server:
+	$> rackup
+
 
 
 - tests
