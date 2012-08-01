@@ -2,6 +2,11 @@ require 'rubygems'
 require 'rspec/core/rake_task'
 
 
+desc "Run server"
+task :serverup do
+	system "rackup -p 3000"
+end
+
 namespace :test do
 
 	desc "Run routes tests"
