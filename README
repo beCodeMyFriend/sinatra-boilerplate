@@ -12,7 +12,7 @@
 
 - tests
 	- domain: rspec
-	- routes: rack-test
+	- routes: rake test:routes
 
 - build
 	- run application
