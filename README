@@ -1,0 +1,25 @@
+
+- folder structure
+	 - lib: source
+	 - test 
+	 	- routes
+	 	- domain
+
+- sinatra simple app
+	- app.rb
+	- config.ru
+
+
+- tests
+	- domain: rspec
+	- routes: rack-test
+
+- build
+	- run application
+
+- database 
+
+- gemfile
+
+- rvm
+
